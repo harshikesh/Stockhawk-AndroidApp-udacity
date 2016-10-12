@@ -1,0 +1,14 @@
+<resources>
+
+  <string name="action_change_units">wahadat alttaghyir</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="network_toast">ah awh! hdha alttatbiq yatatallab aittisal bial\'intrnt</string>
+  <string name="no_stocks">la yujad makhzun</string>
+  <string name="press_add">alssahafat + li\'iidafat al\'ashum</string>
+  <string name="wrong_symbol">ramz batila</string>
+  <string name="title_widget">makhzun</string>
+  <string name="no_stock">la yujad makhzun</string>
+  <string name="sorry_tech_issue">eudhraan, mushkilatan fannia.</string>
+  <string name="add_stock">\'iidafat al\'ashum</string>
+  <string name="bid_price">sier</string>
+</resources>

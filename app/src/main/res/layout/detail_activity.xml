@@ -42,7 +42,7 @@
       android:textSize="@dimen/sp_25"
       android:gravity="center"
       android:layout_gravity="center"
-      android:text="Bid Price"
+      android:text="@string/bid_price"
   />
   <lecho.lib.hellocharts.view.LineChartView
       android:id="@+id/stock_chart"
