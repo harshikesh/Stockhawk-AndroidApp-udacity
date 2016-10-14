@@ -18,5 +18,6 @@
   <string name="sorry_tech_issue">Sorry , Technical Issue.</string>
   <string name="add_stock">add stock</string>
   <string name="bid_price">Bid Price</string>
+  <string name="already_in_stock">This stock is already saved!</string>
 
 </resources>
